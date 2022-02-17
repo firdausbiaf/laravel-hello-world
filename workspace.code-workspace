@@ -1,0 +1,38 @@
+{
+	"folders": [
+		{
+			"path": "..\\poltek"
+		},
+		{
+			"path": "..\\..\\..\\Python\\hello"
+		},
+		{
+			"path": "..\\..\\..\\Python\\perceptron"
+		},
+		{
+			"path": "..\\dasarWeb\\praktik_php"
+		},
+		{
+			"path": "..\\..\\..\\Python\\tree"
+		},
+		{
+			"path": "..\\..\\..\\Python"
+		},
+		{
+			"path": "..\\kalkulator"
+		},
+		{
+			"path": "..\\TugasBesar"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\cmss"
+		},
+		{
+			"path": "..\\cms"
+		}
+	],
+	"settings": {}
+}
